@@ -1,3 +1,5 @@
+movies.txt.gz file must be in the "big-data-excercises" folder.
+
 # Big Data Exercises
 
 This repo contains several common big data exercises.
